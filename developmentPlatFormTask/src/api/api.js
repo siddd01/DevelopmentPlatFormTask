@@ -3,7 +3,7 @@
 import axios from "axios";
 
 const api = axios.create({
-  baseURL: "https://jsonplaceholder.typicode.com",
+  baseURL: " https://devplat.heraldcollege.edu.np/leave-management/api",
 });
 
 export default api;

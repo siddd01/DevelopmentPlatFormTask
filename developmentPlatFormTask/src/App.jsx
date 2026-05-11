@@ -1,10 +1,12 @@
+import Login from "./Component/Login"
 
 const App = () => {
   return (
     <div className="text-3xl">
-      this is dev platform
+      <Login/>
     </div>
   )
 }
 
 export default App
+
